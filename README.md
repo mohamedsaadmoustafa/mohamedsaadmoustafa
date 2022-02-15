@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Bratislava and currently working at IBM. You can find me on [![LinkedIn][3.2]][3].
+My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Cairo. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -10,9 +10,6 @@ My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Brat
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
-A sample of my recent articles:
 
 ## &#x1f4c8; GitHub Stats
 
@@ -21,16 +18,7 @@ A sample of my recent articles:
 </a>
 <a href="https://github.com/mohamedsaadmoustafa/mohamedsaadmoustafa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedsaadmoustafa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
-</a>
-
-<a href="https://github.com/mohamedsaadmoustafa/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedsaadmoustafa&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/mohamedsaadmoustafa/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedsaadmoustafa&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>   
 
 <!-- links to social media icons -->
 
