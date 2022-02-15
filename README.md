@@ -11,9 +11,7 @@
 - 📫 How to reach me:
 
 <p align="left">
-<a href="http://linkedin.com/in/mohamedsaadmoustafa" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="" height="30" /></a>
-
-<a href="mohamedsaadmoustafa@gmail.com" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/mohamedsaadmoustafa" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="" height="30" /></a><a href="mohamedsaadmoustafa@gmail.com" target="blank"><img align="center" src="https://p1.hiclipart.com/preview/819/916/34/numix-circle-for-windows-gmail-icon-png-icon.jpg" alt="" height="30" /></a>
   
 </p>
 - 😄 Pronouns: ...
