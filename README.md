@@ -1,6 +1,6 @@
 ### Hi there 👋✨
 
-![](https://raw.githubusercontent.com/AashimaAhuja/AashimaAhuja/main/images/banner.png)
+<--![](https://raw.githubusercontent.com/AashimaAhuja/AashimaAhuja/main/images/banner.png) /-->
 
 
 <p align="left">
