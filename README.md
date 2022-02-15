@@ -10,6 +10,4 @@
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamedsaadmoustafa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=16171E00)](https://git.io/streak-stats) 
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedsaadmoustafa&show_icons=true&theme=dark" width="400">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedsaadmoustafa&show_icons=true&theme=dark" width="400">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaadmoustafa&layout=compact)](https://github.com/mohamedsaadmoustafa/github-readme-stats)
