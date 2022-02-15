@@ -7,8 +7,10 @@ My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Cair
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -48,15 +50,6 @@ My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Cair
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
-
-
-
-
-
-
 <p align="center">
 <a href="http://linkedin.com/in/mohamedsaadmoustafa" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="" height="30" /></a><a href="https://kaggle.com/iimohamedsaad" target="blank"><img align="center" src="https://assets.datacamp.com/production/course_835/shields/original/kaggle-scripts-design_datacamp.png?1477576468" alt="" height="30" /></a><a href="@mohamedsaadmoustafa@gmail.com" target="blank"><img align="center" src="https://www.shareicon.net/data/512x512/2017/03/20/881283_social-media-icon_512x512.png" alt="" height="30" /></a>
 </p>
-  
