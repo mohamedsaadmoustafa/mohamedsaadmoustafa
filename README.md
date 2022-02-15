@@ -11,7 +11,7 @@
 - 📫 How to reach me:
 
 <p align="left">
-<a href="http://linkedin.com/in/mohamedsaadmoustafa" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/mohamedsaadmoustafa" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="" height="30" /></a>
 </p>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
