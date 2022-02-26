@@ -40,7 +40,7 @@ My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Cair
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[4.2]: https://user-images.githubusercontent.com/29517317/105775335-ab313900-5f34-11eb-8ef8-0bfbc1563829.png (linktr icon without padding)
+[4.2]: https://img.icons8.com/color/50/000000/linktree.png (linktr icon without padding)
 
 <!-- links to your social media accounts -->
 
