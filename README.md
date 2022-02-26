@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Cairo. You can find me on [![LinkedIn][3.2]][4].
+My name is Mohamed Saad and I'm a Data Scientist. I'm from Egypt, living in Cairo. You can find me on [![LinkedIn][4.2]][4].
 
 ## 🔧 Technologies & Tools
 
