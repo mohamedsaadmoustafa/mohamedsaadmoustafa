@@ -1,6 +1,6 @@
 # Mohamed Saad Moustafa
 
-> I'm a **Junior Data Scientist** and **Machine Learning Enthusiast**. ****I'm from Egypt, living in Cairo. 🌊
+> I'm a **Junior Data Scientist** and **Machine Learning Enthusiast**. **I'm from Egypt**, living in Cairo. 🌊
 > 
 
 # ☎️ Contact information
@@ -31,8 +31,6 @@ My native programming language, I've used python for over 8 years in data scienc
 - Data Wrangling
 - Data Scraping
 - Data Analysis
-
----
 
 ---
 
