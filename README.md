@@ -11,26 +11,6 @@
 
 ---
 
-## 🧑🏽‍💻 Technology
-
-### `Python`
-
-### `R`
-
-### `SQL`
-
-### `HTML/CSS`
-
----
-
-# 📚 Education
-
-**Bachelor's Degree in Computer And Information Sciences** 
-
-*(Ain Shams University -* Computer Science department*) -* June *2020* 
-
----
-
 # **🎮** Hobbies
 
 - Gardening 🪴
