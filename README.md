@@ -1,3 +1,3 @@
 # Mohamed Saad Moustafa
 
-> **A Full-Stack Developer / Data Enthusiast**. 
+> **A Full-Stack Developer**. 
